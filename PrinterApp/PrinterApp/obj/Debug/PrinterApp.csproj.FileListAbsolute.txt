@@ -1,0 +1,6 @@
+D:\Code\Learning\PrinterApp\PrinterApp\bin\Debug\PrinterApp.exe.config
+D:\Code\Learning\PrinterApp\PrinterApp\bin\Debug\PrinterApp.exe
+D:\Code\Learning\PrinterApp\PrinterApp\bin\Debug\PrinterApp.pdb
+D:\Code\Learning\PrinterApp\PrinterApp\obj\Debug\PrinterApp.csprojResolveAssemblyReference.cache
+D:\Code\Learning\PrinterApp\PrinterApp\obj\Debug\PrinterApp.exe
+D:\Code\Learning\PrinterApp\PrinterApp\obj\Debug\PrinterApp.pdb
